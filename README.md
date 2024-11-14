@@ -95,8 +95,6 @@ This project is designed to handle receipt processing and calculate reward point
     "points": 109
   }
 
-### Testing
-```markdown
 ## Testing
 - Run unit tests using Maven:
   ```bash
