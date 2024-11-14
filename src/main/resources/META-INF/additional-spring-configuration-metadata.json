@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "points.total.retailName.reward",
+      "type": "java.lang.String",
+      "description": "Description for points.total.retailName.reward."
+  }
+] }
