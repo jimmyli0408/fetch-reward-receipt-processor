@@ -101,7 +101,8 @@ This project is designed to handle receipt processing and calculate reward point
 - Run unit tests using Maven:
   ```bash
   mvn test
-
+  ```
+```
 
 
    
